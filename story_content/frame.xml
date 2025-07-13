@@ -20,7 +20,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6fNT47WsTod.jpg" />
+              <option name="html5_logo_url" value="mobile/6M1x60xKIvm.jpg" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1630,11 +1630,11 @@
             </slidelink>
             <slidelink slideid="_player.5bQbJVcvNXC" displaytext="Module 1 - Introduction" expand="false" type="slide">
               <links>
-                <slidelink slideid="_player.5bQbJVcvNXC.6ZuoYcKxN6X" displaytext="What you will learn" expand="false" type="slide" />
+                <slidelink slideid="_player.5bQbJVcvNXC.6ZuoYcKxN6X" displaytext="What You Will Learn" expand="false" type="slide" />
                 <slidelink slideid="_player.5bQbJVcvNXC.65Vu657GM59" displaytext="Welcome Message from CEO" expand="false" type="slide" />
                 <slidelink slideid="_player.5bQbJVcvNXC.6QdYXMVK8qM" displaytext="About Kilsaran" expand="false" type="slide" />
                 <slidelink slideid="_player.5bQbJVcvNXC.6PKsJLerosy" displaytext="What We Do" expand="false" type="slide" />
-                <slidelink slideid="_player.5bQbJVcvNXC.6qbzoNywiuO" displaytext="Technical expertise" expand="false" type="slide" />
+                <slidelink slideid="_player.5bQbJVcvNXC.6qbzoNywiuO" displaytext="Technical Expertise" expand="false" type="slide" />
                 <slidelink slideid="_player.5bQbJVcvNXC.6gWhS6X9lMu" displaytext="Accreditations" expand="false" type="slide" />
                 <slidelink slideid="_player.5bQbJVcvNXC.5mond14kETw" displaytext="Knowledge Check" expand="false" type="slide" />
               </links>
@@ -1663,7 +1663,7 @@
                 <slidelink slideid="_player.5VP47YsXrMn.6C3y34Ae7lG" displaytext="Introduction" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.6K8EDh8a5nS" displaytext="Your Responsibilities" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5o5fJTatD2d" displaytext="Company Responsibilities" expand="false" type="slide" />
-                <slidelink slideid="_player.5VP47YsXrMn.5e6NTLmYc8q" displaytext="First Aid, Accident and Incident reporting" expand="false" type="slide" />
+                <slidelink slideid="_player.5VP47YsXrMn.5e6NTLmYc8q" displaytext="First Aid, Accident and Incident Reporting" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5tDENz1l7CA" displaytext="Driving Safety" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5YxjsKk00Q3" displaytext="Personal Protective Equipment (PPE)" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.6pedH73kILl" displaytext="Tool Box Talks and Safety Alerts" expand="false" type="slide" />
@@ -1672,7 +1672,7 @@
                 <slidelink slideid="_player.5VP47YsXrMn.6hhwxxyB5TP" displaytext="Mobile Plant" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.6QDx2wgr5nv" displaytext="Manual Handling" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5ajkgcLB3ZS" displaytext="Working at Height" expand="false" type="slide" />
-                <slidelink slideid="_player.5VP47YsXrMn.62n2lq6EQ1u" displaytext="Slips, trips and falls" expand="false" type="slide" />
+                <slidelink slideid="_player.5VP47YsXrMn.62n2lq6EQ1u" displaytext="Slips, Trips And Falls" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5vfC1t9k00H" displaytext="Sustainability" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5yVrlvj4cKH" displaytext="Kilsaran Environmental Management System" expand="false" type="slide" />
                 <slidelink slideid="_player.5VP47YsXrMn.5kNv2ydgbdF" displaytext="Kilsaran Energy Management System" expand="false" type="slide" />
@@ -2951,8 +2951,20 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Social Media "&gt;
+      &lt;Span Text="Social Media &amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The Kilsaran management team does not want you sharing images or videos of any site location to third parties or any social media platform at any time!"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
@@ -2970,6 +2982,111 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The fundamentals defined in our Vision, Mission, and Values are helping us focus on driving the organisation forward for the next generation.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our Vision"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Empowering Better Building through the strength of our people.&amp;#xD;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our Mission"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our Mission is to advance construction through innovation, shaping a sustainable future for our people, customers, and future generations, whilst maintaining our family values.&amp;#xD;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our Core Values"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Innovation "&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="– Focusing on continued improvement.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Drive"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" – Our customers are accustomed to working with driven, results focused Kilsaran people.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Excellence"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=" – Good enough is never our objective. We solve tough problems and make innovative suggestions.&amp;#xD;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Accountable "&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="– Working together to keep our commitments.&amp;#xD;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Sustainability "&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="– We strive for sustainable performance."&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -3404,6 +3521,39 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Kilsaran’s ever-growing and evolving Diversity and Inclusion Team was established in 2022 which contributes to the long term sustainability of Kilsaran.&amp;#xA;"&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our ‘Have Your Say’ programme was launched to allow employees to anonymously participate in open discussion forums in which they could share what it is like to work in Kilsaran. It was due to the ‘Have Your Say’ programme that Kilsaran established a new team dedicated to Diversity and Inclusion. Our team have defined their Vision, Mission and Values which serve as guiding principles for our work in fostering diversity and inclusion.&amp;#xA;"&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Our Mission as a Diversity and Inclusion Team is to create a culture of belonging and respect, and appreciation for all individuals, regardless of any aspect of their identity. We believe that by fostering a sense of community and connection, we can build a stronger, more resilient organisation that is better equipped to meet the needs of our diverse stakeholders."&gt;
+        &lt;Style FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -3415,7 +3565,17 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Introduction&amp;#xD;"&gt;
+      &lt;Span Text="Introduction&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" DefaultTabStop="128" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="In this module we will outline your duties and responsibilities in relation to health and safety in the workplace. You will be made aware of the most common workplace hazards and risks to ensure both you and your colleagues are operating in a safe working environment.&amp;#xA;"&gt;
@@ -3693,7 +3853,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="First Aid, Accident and Incident reporting"&gt;
+      &lt;Span Text="First Aid, Accident and Incident Reporting"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
@@ -3736,7 +3896,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Driving safety"&gt;
+      &lt;Span Text="Driving Safety"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
@@ -4217,7 +4377,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Working at height"&gt;
+      &lt;Span Text="Working at Height"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
@@ -4320,7 +4480,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Slips, trips and falls"&gt;
+      &lt;Span Text="Slips, Trips And Falls"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
@@ -4675,31 +4835,37 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Summary&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Summary"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="Congratulations, you’ve now completed Kilsaran’s company induction course, where you explored our values, structure, and strong commitment to health, safety, quality, and the environment. &amp;#xD;&amp;#xA;"&gt;
-        &lt;Style FontFamily="Sofia Pro" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="You’ve learned about essential policies and procedures, safe working practices, HR guidelines, and the resources available to support you in your role.&amp;#xD;&amp;#xA;"&gt;
-        &lt;Style FontFamily="Sofia Pro" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="The knowledge you’ve gained forms the foundation for working safely and effectively at Kilsaran.&amp;#xD;&amp;#xA;"&gt;
-        &lt;Style FontFamily="Sofia Pro" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Now it’s time to check your understanding with a short 15-question assessment. Best of luck!&amp;#xD;"&gt;
+      &lt;Span Text="Now it’s time to check your understanding with a short 15-question assessment. Best of luck!"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
