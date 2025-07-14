@@ -20,7 +20,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6M1x60xKIvm.jpg" />
+              <option name="html5_logo_url" value="mobile/6OyJnJxOLMD.jpg" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1696,7 +1696,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="What you will learn&amp;#xD;"&gt;
+      &lt;Span Text="What You Will Learn&amp;#xD;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="Welcome to Kilsaran’s company induction course. The aim of this induction is to give you an overview of the main policies and procedures we have in place to keep you, your colleagues, the general public, and anyone who visits our facilities safe.&amp;#xD;&amp;#xA;"&gt;
@@ -1849,7 +1849,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="What we do"&gt;
+      &lt;Span Text="What We Do"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
@@ -4246,7 +4246,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="These machines are fitter with visibility aids to help the drivers all round visibility; you are not permitted to you your mobile phone while operating a machine.&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="These machines are fitter with visibility aids to help the drivers all round visibility; you are not permitted to use your mobile phone while operating a machine.&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
