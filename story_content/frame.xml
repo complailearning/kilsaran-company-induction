@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npnxnanbnsnfns01001000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0xFFFFFF">
   <layouts>
-    <layout name="npnxnanbsnfns11111001101" font="Sofia Pro" controllayout="npnxnanbsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="pxabnsnfns11111001101" font="Sofia Pro" controllayout="pxabnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="npxnabnsnfns11111001101" font="Sofia Pro" controllayout="npxnabnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="npnxnanbnsnfns11111001101" font="Sofia Pro" controllayout="npnxnanbnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="pxabnsnfns11111001100" font="Sofia Pro" controllayout="pxabnsnfns11111001100" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="npnxnanbnsnfns01001000101" font="Sofia Pro" controllayout="npnxnanbnsnfns01001000101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
-    <layout name="pnxnanbsnfns11111001101" font="Sofia Pro" controllayout="pnxnanbsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="npnxnanbsnfns11111001101" font="BrownStd" controllayout="npnxnanbsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="pxabnsnfns11111001101" font="BrownStd" controllayout="pxabnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="npxnabnsnfns11111001101" font="BrownStd" controllayout="npxnabnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="npnxnanbnsnfns11111001101" font="BrownStd" controllayout="npnxnanbnsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="pxabnsnfns11111001100" font="BrownStd" controllayout="pxabnsnfns11111001100" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="npnxnanbnsnfns01001000101" font="BrownStd" controllayout="npnxnanbnsnfns01001000101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
+    <layout name="pnxnanbsnfns11111001101" font="BrownStd" controllayout="pnxnanbsnfns11111001101" colorscheme="npnxnanbnsnfns01001000101" string_table="npnxnanbnsnfns01001000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -21,7 +21,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/5iBW8mFhsIl.png" />
+              <option name="html5_logo_url" value="mobile/60fk0Ooyg1v.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -106,11 +106,12 @@
       </optiongroup>
       <optiongroup name="ccOptions">
         <options>
-          <option name="font" value="Sofia Pro" />
+          <option name="font" value="BrownStd" />
           <option name="size" value="100" />
           <option name="placement" value="100" />
           <option name="backgroundColor" value="#000000FF" />
           <option name="color" value="#FFFFFFFF" />
+          <option name="textShadow" value="1" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1640,6 +1641,12 @@
     </string_table>
   </string_tables>
   <fonts>
+    <font name="BrownStd">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
     <font name="Sofia Pro">
       <files>
         <file bold="true" italic="false" />
@@ -1656,7 +1663,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6AfJLR5cMRX" displaytext="Kilsaran Company Induction" expand="false" type="slide">
+        <slidelink slideid="_player.5fmX3fYnHrC" displaytext="Kilsaran Company Induction" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6ZDEw3EXA5B" displaytext="Welcome" expand="false" type="slide">
               <links>
@@ -2340,7 +2347,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Your Line Manager will be your most important contact in the Company. Your manager’s role is to make sure you have the training, tools, and facilities needed to do your job well. They will support your development by keeping your skills up to date, giving feedback, and helping you improve where needed. They are also responsible for managing things like performance, attendance, and holiday requests in a fair and consistent way. In addition, your manager helps encourage positive behaviour and teamwork, so you can feel supported and stay productive at work.&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Your Line Manager will be your most important contact in the Company.  Your manager’s role is to make sure you have the training, tools, and facilities needed to do your job well. They will support your development by keeping your skills up to date, giving feedback, and helping you improve where needed. They are also responsible for managing things like performance, attendance, and holiday requests in a fair and consistent way. In addition, your manager helps encourage positive behaviour and teamwork, so you can feel supported and stay productive at work.&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2431,7 +2438,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Your Contract of Employment – You will have been issued your contract of employment which is a written statement outlining the full terms of your work relationship with Kilsaran. The contract details your job responsibilities and other aspects concerning your employment.  Once you are satisfied that you understand and accept the terms - please return a signed copy to the Human Resources Department. Please ensure that you retain a copy of the offer letter, cover letter and a copy of your Contract of Employment for your own records.  Any queries – please contact your Line Manager. &amp;#xA;"&gt;
+      &lt;Span Text="Your Contract of Employment – You will have been issued your contract of employment which is a written statement outlining the full terms of your work relationship with Kilsaran. The contract details your job responsibilities and other aspects concerning your employment.  Once you are satisfied that you understand and accept the terms - please return a signed copy to the Human Resources Department. Please ensure that you retain a copy of the offer letter, cover letter and a copy of your Contract of Employment for your own records.  Any queries – please contact your Line Manager.&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2576,16 +2583,22 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Weekly"&gt;
-        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" FontIsUnderline="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Depending on your role you will be paid either on a weekly basis or a monthly basis. Your pay frequency will be outlined in both your Offer Letter and in your Contract of Employment. &amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Depending on your role you will be paid either on a weekly basis or a monthly basis. Your pay frequency will be outlined in both your Offer Letter and in your Contract of Employment. &amp;#xA;"&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Weekly"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" FontIsUnderline="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2609,7 +2622,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Your Manager will then submit your hours (for the previous week) on a weekly basis – these hours are submitted to Payroll by 11am each Monday. &amp;#xD;&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Your Manager will then submit your hours (for the previous week) on a weekly basis – these hours are submitted to Payroll by 10am each Monday. &amp;#xD;&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2753,7 +2766,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="https://www.myess.ie/Kilsaran_Month.html&amp;#xA;"&gt;
+      &lt;Span Text="https://www.myess.ie/Kilsaran_Month.htm&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -3142,17 +3155,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Pop-ups must be allowed in order to view the payslip.&amp;#xA;"&gt;
-        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Period" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Pop-ups must be allowed in order to view the payslip.&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5191,7 +5194,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Click next to continue.&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5542,7 +5545,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Depending on which site you work on, you will be expected to wear some, or all, of the following Personnel Protective Equipment. A minimum we would expect you to wear Foot Protection, a Safety Helmet and High Visibility Vests. Laced up Safety boots must be worn to give you the proper ankle support. Unlaced boots such as dealer boots/rigger boots cannot be worn at any time. But in addition you may also need to wear:&amp;#xA;"&gt;
+      &lt;Span Text="Depending on which site you work on, you will be expected to wear some, or all, of the following Personal Protective Equipment. A minimum we would expect you to wear Foot Protection, a Safety Helmet and High Visibility Vests, but in addition you may also need to wear&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5602,7 +5605,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="•&amp;#x9;Task specific Personnel Protective Equipment as appropriate&amp;#xA;"&gt;
+      &lt;Span Text="•&amp;#x9;Task specific Personal Protective Equipment as appropriate&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5614,7 +5617,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Operatives must sign their commencement form to say they received their items of Personnel Protective Equipment, that they will look after them and report any defects immediately to the Plant Manager.&amp;#xA;"&gt;
+      &lt;Span Text="Operatives must sign their commencement form to say they received their items of Personal Protective Equipment, that they will look after them and report any defects immediately to the Plant Manager.&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5626,7 +5629,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="These rules apply to ALL people present on site at ALL times regardless of the nature of the work they are undertaking. It is the responsibility of contractors to provide their own Personnel Protective Equipment.&amp;#xA;"&gt;
+      &lt;Span Text="These rules apply to ALL people present on site at ALL times regardless of the nature of the work they are undertaking. It is the responsibility of contractors to provide their own Personal Protective Equipment.&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5638,7 +5641,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Kilsaran reserves the right to refuse entry to any person arriving on site without the correct Personnel Protective Equipment.&amp;#xA;"&gt;
+      &lt;Span Text="Kilsaran reserves the right to refuse entry to any person arriving on site without the correct Personal Protective Equipment.&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5650,7 +5653,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Anybody persistently failing to wear the correct Personnel Protective Equipment will be removed from site and may be subject to disciplinary action.&amp;#xA;"&gt;
+      &lt;Span Text="Anybody persistently failing to wear the correct Personal Protective Equipment will be removed from site and may be subject to disciplinary action.&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -6594,7 +6597,17 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Operating in compliance with all relevant environmental legislation, regulations, waste permit requirements and best management practices&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Operating in compliance with all relevant environmental legislation, regulations, waste permit requirements and best management practices&amp;#xA;"&gt;
+        &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
