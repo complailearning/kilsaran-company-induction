@@ -21,7 +21,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/5bGlF0E50YF.png" />
+              <option name="html5_logo_url" value="mobile/6178mzguXue.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -5656,7 +5656,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Depending on which site you work on, you will be expected to wear some, or all, of the following Personal Protective Equipment. A minimum we would expect you to wear Foot Protection, a Safety Helmet and High Visibility Vests, but in addition you may also need to wear&amp;#xA;"&gt;
+      &lt;Span Text="Depending on which site you work on, you will be expected to wear some, or all, of the following Personal Protective Equipment. A minimum we would expect you to wear Foot Protection, a Safety Helmet and High Visibility Vests. Safety shoes and unlaced boots such as dealer boots/rigger boots cannot be worn at any time. Laced up Safety Boots must be worn. But in addition you may also need to wear:&amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5780,7 +5780,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Isolation Procedures: Lock Out Tag Out - Check ‘LOTOC’&amp;#xA;"&gt;
+      &lt;Span Text="Isolation Procedures: Lock Out Tag Out &amp;#xA;"&gt;
         &lt;Style FontFamily="Sofia Pro" FontSize="10" FontIsBold="True" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
