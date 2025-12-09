@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2564,"text":"Rezumat"},{"start":7196,"text":"Felicitări, ați finalizat cursul de inducție al companiei Kilsaran,"},{"start":11412,"text":"în cadrul căruia ați explorat valorile, structura și angajamentul nostru ferm față de oamenii noștri,"},{"start":16460,"text":"sănătate, siguranță, calitate și mediu."},{"start":20632,"text":"Ai aflat despre politicile și procedurile esențiale, practicile de lucru în siguranță,"},{"start":25256,"text":"liniile directoare de resurse umane și resursele disponibile pentru a te sprijini în rolul tău."},{"start":30492,"text":"Cunoștințele pe care le-ați dobândit formează fundamentul pentru a lucra în siguranță și eficient la Kilsaran."},{"start":37188,"text":"Acum e momentul să vă verificați înțelegerea cu o scurtă evaluare de 15 întrebări. Mult succes!"}]}]};
+    window.globalLoadJsAsset('story_content/6c6Qz5XqvF5_transcripts.js', JSON.stringify(data));
+})();

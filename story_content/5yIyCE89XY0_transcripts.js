@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1924,"text":"Media społecznościowe"},{"start":6496,"text":"Zespół zarządzający Kilsaran nie życzy sobie, abyś kiedykolwiek udostępniał osobom trzecim"},{"start":12169,"text":"ani żadnym platformom społecznościowym zdjęcia lub nagrania wideo przedstawiające jakąkolwiek lokalizację!"},{"start":17124,"text":"Aby uzyskać przyszłe informacje dotyczące mediów społecznościowych, zapoznaj się z Polityką"},{"start":22113,"text":"dotyczącą mediów społecznościowych dołączoną do Twojego nowego pakietu startowego."},{"start":24916,"text":"Prosimy wszystkich o śledzenie oficjalnych kanałów Kilsaran w mediach społecznościowych, jeśli z nich korzystacie."},{"start":31216,"text":"LinkedIn"},{"start":31948,"text":"Instagram"},{"start":32857,"text":"Facebook"},{"start":33500,"text":"TikTok"},{"start":34381,"text":"Х"},{"start":35113,"text":"Pinterest"}]}]};
+    window.globalLoadJsAsset('story_content/5yIyCE89XY0_transcripts.js', JSON.stringify(data));
+})();

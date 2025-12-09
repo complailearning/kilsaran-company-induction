@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2116,"text":"Jūsų vadovas"},{"start":6208,"text":"Jūsų tiesioginis vadovas bus svarbiausias jūsų kontaktinis asmuo įmonėje."},{"start":11424,"text":"Jūsų vadovo vaidmuo – užtikrinti, kad turėtumėte reikiamus mokymus, įrankius ir patalpas, kad galėtumėte gerai atlikti savo darbą."},{"start":18880,"text":"Jis rems jūsų tobulėjimą, nuolat atnaujindamas jūsų įgūdžius,"},{"start":22052,"text":"teikdamas atsiliepimus"},{"start":23028,"text":"ir padėdamas jums tobulėti ten, kur reikia."},{"start":25920,"text":"Jis taip pat atsakingas už sąžiningą ir nuoseklų tokių dalykų kaip darbo našumas, lankomumas ir atostogų prašymai valdymą."},{"start":35584,"text":"Be to, jūsų vadovas padeda skatinti teigiamą elgesį ir komandinį darbą,"},{"start":39784,"text":"kad jaustumėtės palaikomi ir išliktumėte produktyvūs darbe."}]}]};
+    window.globalLoadJsAsset('story_content/6C7DNwn2mG4_transcripts.js', JSON.stringify(data));
+})();

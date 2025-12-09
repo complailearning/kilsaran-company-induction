@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2060,"text":"Metinės atostogos"},{"start":6936,"text":"Jūsų kasmetinių atostogų teisės yra išsamiai aprašytos jūsų darbo sutartyje."},{"start":11616,"text":"Atostogų dienos darbuotojams skaičiuojamos proporcingai, pradedant nuo visų atostogų metų,"},{"start":16468,"text":"ir jūs galite pasitikrinti savo teises atostogų programėlėje."},{"start":19860,"text":"„Kilsaran“ taiko kalėdinį nedarbo laikotarpį, per kurį turite išsaugoti iš anksto nustatytą atostogų dienų skaičių."},{"start":27104,"text":"Kasmetinių atostogų prašoma ir patvirtinama per atostogų modulį / programėlę."},{"start":31360,"text":"Norėdami užsiregistruoti ir naudotis atostogų moduliu / programėle, turėsite pateikti aktyvų el. pašto adresą."},{"start":37820,"text":"Savo interesais neturėtumėte rezervuoti atostogų, kol negausite patvirtinimo."}]}]};
+    window.globalLoadJsAsset('story_content/69MxtkosBa4_transcripts.js', JSON.stringify(data));
+})();

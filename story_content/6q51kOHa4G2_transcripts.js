@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1956,"text":"Discuții despre cutia cu scule și alerte de siguranță"},{"start":6444,"text":"Vor fi organizate discuții periodice și alerte de siguranță pe o serie de aspecte legate de sănătate și securitate."},{"start":12572,"text":" Acestea sunt scurte alerte de siguranță privind un anumit aspect al sănătății și securității și vor fi, de obicei,"},{"start":16620,"text":"determinate de un incident pe un șantier similar cu cel la care lucrați sau de"},{"start":21568,"text":"o modificare a legislației privind sănătatea și securitatea, despre care trebuie să fiți informat."},{"start":26840,"text":"Vi se va cere să semnați și să confirmați că ați înțeles discuțiile."},{"start":31816,"text":"Acestea reprezintă, de asemenea, o oportunitate pentru dumneavoastră de a ridica orice nelămuriri sau întrebări pe care le aveți în materie de sănătate și securitate."}]}]};
+    window.globalLoadJsAsset('story_content/6q51kOHa4G2_transcripts.js', JSON.stringify(data));
+})();

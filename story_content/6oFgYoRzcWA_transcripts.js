@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2576,"text":"Nulinis įvartis"},{"start":6560,"text":"„Kilsaran“ įmonėje kiekvieną dieną siekiame „Goal Zero“,"},{"start":10304,"text":"kuriuo remdamiesi norime, kad kiekvienas mąstytų saugiai, dirbtų saugiai ir kasdien saugiai grįžtų namo."},{"start":16688,"text":"„Goal Zero“ yra ne tik teiginys ar frazė, bet ir mąstysena, kai visi „Kilsaran“"},{"start":23692,"text":"darbuotojai ir tarnautojai privalo atlikti savo vaidmenį, siekti nuolatinio tobulėjimo ir užkirsti kelią žalai sau ar kolegoms."},{"start":31720,"text":"Kodėl „Goal Zero“?"},{"start":33624,"text":"Ugdyti mąstyseną, kuri būtų mūsų veiklos pagrindas."},{"start":37788,"text":"Mūsų darbo, veiklos, ataskaitų teikimo ir bendravimo būdai yra paremti „Goal Zero“ vizija."}]}]};
+    window.globalLoadJsAsset('story_content/6oFgYoRzcWA_transcripts.js', JSON.stringify(data));
+})();

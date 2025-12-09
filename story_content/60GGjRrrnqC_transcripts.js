@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2788,"text":"Akreditacijos"},{"start":6472,"text":"„Kilsaran“ yra gavusi keletą akreditacijų – nuo"},{"start":9632,"text":"ISO 45001,"},{"start":12192,"text":"ISO 14001,"},{"start":14448,"text":"ISO 9001,"},{"start":16520,"text":"„Safe T Cert“ iki ISO 50001"},{"start":20392,"text":"standartų svarbiose verslo srityse,"},{"start":23968,"text":"o tai užtikrina, kad mūsų įmonė padeda saugoti aplinką tvarkydama atliekas ir energiją,"},{"start":29280,"text":"kartu laikydamasi visų atitinkamų aplinkosaugos teisės aktų."},{"start":34248,"text":"Mūsų atsidavusi tyrimų ir inovacijų komanda reguliariai susitinka, kad stebėtų aplinkosaugos tikslus."},{"start":41140,"text":"Kai būsite pasiruošę, spustelėkite „Toliau“, kad tęstumėte žinių patikrinimą."}]}]};
+    window.globalLoadJsAsset('story_content/60GGjRrrnqC_transcripts.js', JSON.stringify(data));
+})();

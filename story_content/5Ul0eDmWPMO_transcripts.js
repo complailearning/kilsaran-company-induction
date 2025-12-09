@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2704,"text":"Įmonė Politika"},{"start":6112,"text":"Yra daug įmonės politikos nuostatų ir procedūrų, kurios apibrėžia mūsų santykių atsakomybę,"},{"start":12492,"text":"t. y. įmonės ir darbuotojo,"},{"start":16108,"text":"darbuotojo ir darbuotojo tarpusavio santykius."},{"start":17869,"text":"Jūs esate atsakingi už tai, kad susipažintumėte su šiomis politikomis"},{"start":22048,"text":"tinkamiausios ir dažniausiai naudojamos politikos nuostatos buvo atsiųstos jums jūsų naujame pradedančiųjų pakete."},{"start":27056,"text":"Tačiau yra ir kitų politikos nuostatų, kurias galite rasti „SharePoint“ platformoje arba paprašę savo tiesioginio vadovo."},{"start":33504,"text":"Darbuotojams, pažeidusiems įmonės politiką, gali būti taikoma drausminė procedūra, įskaitant atleidimą iš darbo."}]}]};
+    window.globalLoadJsAsset('story_content/5Ul0eDmWPMO_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2564,"text":"Streszczenie"},{"start":7196,"text":"Gratulacje, ukończyłeś szkolenie wprowadzające do firmy Kilsaran,"},{"start":11412,"text":"na którym zapoznałeś się z naszymi wartościami, strukturą i silnym zaangażowaniem na rzecz pracowników,"},{"start":16460,"text":"zdrowia, bezpieczeństwa, jakości i środowiska."},{"start":20632,"text":"Zapoznałeś się z podstawowymi zasadami i procedurami, bezpiecznymi praktykami pracy"},{"start":25256,"text":"wytycznymi działu HR oraz zasobami, które mogą Cię wesprzeć w Twojej roli."},{"start":30492,"text":"Zdobyta przez Ciebie wiedza stanowi podstawę bezpiecznej i efektywnej pracy w Kilsaran."},{"start":37188,"text":"Teraz czas sprawdzić Twoje zrozumienie za pomocą krótkiego testu składającego się z 15 pytań. Powodzenia!"}]}]};
+    window.globalLoadJsAsset('story_content/6RrsUTRpGjq_transcripts.js', JSON.stringify(data));
+})();

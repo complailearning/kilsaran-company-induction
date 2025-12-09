@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1924,"text":"Rețele sociale"},{"start":6496,"text":"Echipa de management Kilsaran nu dorește ca dumneavoastră să partajați imagini sau videoclipuri ale niciunei locații"},{"start":12169,"text":"a site-ului către terți sau către orice platformă de socializare, niciodată!"},{"start":17124,"text":"Pentru informații viitoare referitoare la rețelele sociale, vă rugăm să consultați Politica"},{"start":22113,"text":"privind rețelele sociale care v-a fost furnizată în noul pachet Starter Pack."},{"start":24916,"text":"Rugăm pe toată lumea să urmărească canalele oficiale de socializare Kilsaran dacă sunt pe rețelele de socializare."},{"start":31216,"text":"LinkedIn"},{"start":31948,"text":"Instagram"},{"start":32857,"text":"Facebook"},{"start":33500,"text":"TikTok"},{"start":34381,"text":"Х"},{"start":35113,"text":"Pinterest"}]}]};
+    window.globalLoadJsAsset('story_content/6ahfJKo9zN7_transcripts.js', JSON.stringify(data));
+})();

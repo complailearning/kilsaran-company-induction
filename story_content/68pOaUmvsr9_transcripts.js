@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2564,"text":"Santrauka"},{"start":7196,"text":"Sveikiname, baigėte „Kilsaran“ įmonės įvadinius kursus,"},{"start":11412,"text":"kurių metu susipažinote su mūsų vertybėmis, struktūra ir tvirtu įsipareigojimu rūpintis savo žmonėmis,"},{"start":16460,"text":"sveikata, sauga, kokybe ir aplinka."},{"start":20632,"text":"Sužinojote apie esmines politikos kryptis ir procedūras, saugaus darbo praktikas,"},{"start":25256,"text":"žmogiškųjų išteklių gaires ir išteklius, kurie gali padėti jums atliekant savo pareigas."},{"start":30492,"text":"Jūsų įgytos žinios sudaro pagrindą saugiam ir efektyviam darbui Kilsaran."},{"start":37188,"text":"Dabar laikas patikrinti savo supratimą trumpu 15 klausimų testu. Sėkmės!"}]}]};
+    window.globalLoadJsAsset('story_content/68pOaUmvsr9_transcripts.js', JSON.stringify(data));
+})();

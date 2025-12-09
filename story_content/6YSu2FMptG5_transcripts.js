@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1924,"text":"Socialinė žiniasklaida"},{"start":6496,"text":"„Kilsaran“ valdymo komanda nenori, kad jūs bet kurios vietos vaizdus ar vaizdo įrašus"},{"start":12169,"text":"dalintumėtės su trečiosiomis šalimis ar bet kuria socialine žiniasklaida!"},{"start":17124,"text":"Dėl būsimos informacijos, susijusios su socialine žiniasklaida, žr. Socialinės žiniasklaidos politiką,"},{"start":22113,"text":"kuri buvo jums pateikta kartu su nauju pradedančiųjų paketu."},{"start":24916,"text":"Prašome visų, jei naudojatės socialiniais tinklais, sekti oficialius „Kilsaran“ socialinės žiniasklaidos kanalus."},{"start":31216,"text":"LinkedIn"},{"start":31948,"text":"Instagramas"},{"start":32857,"text":"Facebook"},{"start":33500,"text":"TikTok"},{"start":34381,"text":"Х"},{"start":35113,"text":"Pinterest"}]}]};
+    window.globalLoadJsAsset('story_content/6YSu2FMptG5_transcripts.js', JSON.stringify(data));
+})();

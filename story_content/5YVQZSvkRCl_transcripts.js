@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1936,"text":"Mokymai ir tobulėjimas"},{"start":6304,"text":"Mes pripažįstame, kad nuolatinis visų lygių darbuotojų mokymas yra būtinas siekiant užtikrinti kiekvieno darbuotojo"},{"start":11848,"text":"эффективности,efektyvumą,"},{"start":12545,"text":"produktyvumą"},{"start":13455,"text":"ir asmeninį tobulėjimą."},{"start":16300,"text":"Pagrindiniai mūsų mokymo politikos tikslai yra šie:"},{"start":20096,"text":"Suteikti kiekvienam darbuotojui veiksmingą įvadinę programą,"},{"start":24056,"text":"užtikrinančią Bendrovės, savo vaidmens ir individualių pareigų supratimą;"},{"start":29624,"text":"Suteikti įvadinį mokymą ir mokymą darbo vietoje,"},{"start":33120,"text":"kad nauji darbuotojai galėtų pasiekti reikiamus veiklos standartus per nustatytą laiką;"},{"start":38560,"text":"Pripažinti, kad geriausia tobulėjimo forma yra savęs tobulinimas,"},{"start":43104,"text":"todėl kurti mokymo planus, kurie padėtų darbuotojams gerinti savo veiklos rezultatus."}]}]};
+    window.globalLoadJsAsset('story_content/5YVQZSvkRCl_transcripts.js', JSON.stringify(data));
+})();

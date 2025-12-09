@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1956,"text":"Rozmowy przy skrzynce narzędziowej i alerty bezpieczeństwa"},{"start":6444,"text":"Regularne instruktaże i ostrzeżenia dotyczące bezpieczeństwa będą prowadzone w ramach szeregu zagadnień związanych z bezpieczeństwem i higieną pracy."},{"start":12572,"text":"Są to krótkie ostrzeżenia dotyczące konkretnego aspektu bezpieczeństwa i higieny pracy,"},{"start":16620,"text":"zazwyczaj ustalane w przypadku incydentu na terenie podobnym do tego, na którym pracujesz, "},{"start":21568,"text":"lub zmiany przepisów BHP, o których musisz zostać poinformowany."},{"start":26840,"text":"Oczekuje się, że podpiszesz i potwierdzisz zrozumienie instruktaży."},{"start":31816,"text":"Są one również okazją do zgłoszenia wszelkich wątpliwości lub pytań dotyczących bezpieczeństwa i higieny pracy."}]}]};
+    window.globalLoadJsAsset('story_content/68D82cIR6FW_transcripts.js', JSON.stringify(data));
+})();

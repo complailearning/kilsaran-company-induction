@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2116,"text":"Twój menedżer"},{"start":6208,"text":"Twój bezpośredni przełożony będzie Twoim najważniejszym kontaktem w firmie."},{"start":11424,"text":"Rolą Twojego przełożonego jest zapewnienie Ci szkoleń, narzędzi i udogodnień niezbędnych do dobrego wykonywania Twojej pracy."},{"start":18880,"text":"Będzie on wspierał Twój rozwój, stale aktualizując Twoje umiejętności,"},{"start":22052,"text":"udzielając Ci informacji zwrotnych"},{"start":23028,"text":"i pomagając Ci w doskonaleniu się w razie potrzeby."},{"start":25920,"text":"Do jego obowiązków należy również sprawiedliwe i spójne zarządzanie takimi kwestiami jak wydajność, frekwencja i wnioski urlopowe."},{"start":35584,"text":"Ponadto, Twój przełożony pomaga Ci promować pozytywne zachowania i pracę zespołową,"},{"start":39784,"text":"dzięki czemu czujesz się wspierany i pozostajesz produktywny w pracy."}]}]};
+    window.globalLoadJsAsset('story_content/6LNLtGKMEuF_transcripts.js', JSON.stringify(data));
+})();

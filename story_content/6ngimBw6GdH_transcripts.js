@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2116,"text":"Managerul dumneavoastră"},{"start":6208,"text":"Managerul tău direct va fi cel mai important contact al tău în cadrul Companiei."},{"start":11424,"text":"Rolul managerului tău este să se asigure că ai instruirea, instrumentele și facilitățile necesare pentru a-ți face treaba bine."},{"start":18880,"text":"Acesta îți va sprijini dezvoltarea menținându-ți abilitățile la zi,"},{"start":22052,"text":"oferindu-ți feedback"},{"start":23028,"text":"și ajutându-te să te îmbunătățești acolo unde este nevoie."},{"start":25920,"text":"De asemenea, este responsabil pentru gestionarea unor aspecte precum performanța, prezența și cererile de concediu într-un mod corect și consecvent."},{"start":35584,"text":"În plus, managerul tău contribuie la încurajarea unui comportament pozitiv și a muncii în echipă,"},{"start":39784,"text":"astfel încât să te poți simți susținut și să rămâi productiv la locul de muncă."}]}]};
+    window.globalLoadJsAsset('story_content/6ngimBw6GdH_transcripts.js', JSON.stringify(data));
+})();

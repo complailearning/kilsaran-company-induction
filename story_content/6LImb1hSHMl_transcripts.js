@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2576,"text":"Gol zero"},{"start":6560,"text":"La Kilsaran, obiectivul nostru zilnic este Obiectivul Zero,"},{"start":10304,"text":"prin care ne dorim ca toată lumea să gândească în siguranță, să lucreze în siguranță și să ajungă acasă în siguranță în fiecare zi."},{"start":16688,"text":"„Obiectivul Zero” nu este doar o afirmație sau o frază, ci o stare de spirit în care toți angajații și personalul care lucrează pentru Kilsaran"},{"start":23692,"text":"trebuie să își joace rolul și să depună eforturi pentru îmbunătățire continuă și să prevină accidentarea lor sau a colegilor de muncă."},{"start":31720,"text":"De ce Goal Zero?"},{"start":33624,"text":"Să dezvoltăm o mentalitate care să stea la baza modului în care funcționăm."},{"start":37788,"text":"Modalitățile noastre de lucru, de performanță, de raportare și de comunicare s-au încadrat în viziunea Goal Zero."}]}]};
+    window.globalLoadJsAsset('story_content/6LImb1hSHMl_transcripts.js', JSON.stringify(data));
+})();

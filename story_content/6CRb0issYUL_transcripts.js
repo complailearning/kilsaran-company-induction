@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1956,"text":"Įrankių dėžės aptarimai ir saugos įspėjimai"},{"start":6444,"text":"Reguliariai bus rengiami pokalbiai apie darbo priemones ir saugos įspėjimai įvairiais sveikatos ir saugos klausimais."},{"start":12572,"text":"Tai trumpi saugos įspėjimai apie konkretų sveikatos ir saugos aspektą,"},{"start":16620,"text":"kurie paprastai skiriami atsižvelgiant į incidentą panašioje vietoje, kurioje dirbate,"},{"start":21568,"text":"kurioje dirbate, arba į sveikatos ir saugos teisės aktų pakeitimus, apie kuriuos turite būti informuoti."},{"start":26840,"text":"Turėsite pasirašyti ir patvirtinti, kad supratote darbo priemonių pokalbius."},{"start":31816,"text":"Tai taip pat yra galimybė jums iškelti bet kokius su sveikata ir sauga susijusius klausimus ar iškelti bet kokius jums rūpimus klausimus."}]}]};
+    window.globalLoadJsAsset('story_content/6CRb0issYUL_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2704,"text":"Companie Politici"},{"start":6112,"text":"Există o serie de politici și proceduri ale companiei care stabilesc responsabilitățile relațiilor noastre,"},{"start":12492,"text":"și anume de la companie la angajat,"},{"start":14679,"text":"de la angajat la companie"},{"start":16108,"text":"și de la angajat la angajat."},{"start":17869,"text":"Este responsabilitatea dumneavoastră să vă familiarizați cu aceste politici"},{"start":22048,"text":"cele mai adecvate și utilizate politici v-au fost trimise în Pachetul pentru începători."},{"start":27056,"text":"Cu toate acestea, există politici suplimentare disponibile pe SharePoint sau la cerere de la managerul dumneavoastră direct."},{"start":33504,"text":"Angajații care încalcă Politica Companiei pot fi supuși Procedurii Disciplinare, până la și inclusiv concedierea."}]}]};
+    window.globalLoadJsAsset('story_content/66omHGcWMq5_transcripts.js', JSON.stringify(data));
+})();

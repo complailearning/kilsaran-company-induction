@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2060,"text":"Urlop roczny"},{"start":6936,"text":"Twoje uprawnienia do urlopu wypoczynkowego są szczegółowo opisane w umowie o pracę."},{"start":11616,"text":"Urlopy są obliczane proporcjonalnie dla pracowników rozpoczynających pracę w trakcie roku urlopowego,"},{"start":16468,"text":"a przysługujące Ci dni urlopu możesz sprawdzić w aplikacji Holiday App."},{"start":19860,"text":"W Kilsaran obowiązuje okres świąteczny, w którym należy wykorzystać ustaloną liczbę dni urlopu."},{"start":27092,"text":"Wniosek o urlop roczny składa się i zatwierdza za pośrednictwem modułu/aplikacji wakacyjnej."},{"start":31360,"text":"Aby zarejestrować się i korzystać z modułu/aplikacji wakacyjnej, należy podać aktywny adres e-mail."},{"start":37856,"text":"W swoim własnym interesie nie należy dokonywać rezerwacji urlopu przed uzyskaniem zatwierdzenia."}]}]};
+    window.globalLoadJsAsset('story_content/5mkPIwXyKo2_transcripts.js', JSON.stringify(data));
+})();

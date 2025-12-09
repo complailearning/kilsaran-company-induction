@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2060,"text":"Concediul de odihnă anual"},{"start":6936,"text":"Drepturile dumneavoastră la concediu anual sunt detaliate în Contractul dumneavoastră de muncă."},{"start":11616,"text":"Concediile sunt calculate proporțional pentru angajați, începând pe parcursul anului de vacanță,"},{"start":16468,"text":"și vă puteți verifica drepturile în aplicația Holiday."},{"start":19860,"text":"Kilsaran are o perioadă de închidere de Crăciun, în care trebuie păstrat un număr prestabilit de zile din concediul dumneavoastră de odihnă."},{"start":27092,"text":"Concediul anual se solicită și se aprobă prin intermediul Modulului/Aplicației Vacanță."},{"start":31360,"text":"Vi se va solicita să furnizați o adresă de e-mail activă pentru a vă înregistra și a utiliza Modulul/Aplicația Vacanță."},{"start":37868,"text":"În propriul interes, nu ar trebui să faceți nicio rezervare de vacanță până când nu primiți aprobarea."}]}]};
+    window.globalLoadJsAsset('story_content/6pG0QJEKBid_transcripts.js', JSON.stringify(data));
+})();

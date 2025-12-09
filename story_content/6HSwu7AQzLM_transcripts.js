@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2536,"text":"Introducere"},{"start":6088,"text":"În acest modul, vom prezenta îndatoririle și responsabilitățile dumneavoastră în ceea ce privește sănătatea și securitatea la locul de muncă."},{"start":12960,"text":"Veți fi informat despre cele mai frecvente pericole și riscuri"},{"start":16688,"text":"la locul de muncă pentru a vă asigura că atât dumneavoastră, cât și colegii dumneavoastră lucrați într-un mediu de lucru sigur."},{"start":22368,"text":"Înainte de a începe lucrul, va trebui să participați la o sesiune de instruire specifică șantierului cu managerul fabricii."},{"start":28552,"text":"Dacă ești gata, hai să continuăm."}]}]};
+    window.globalLoadJsAsset('story_content/6HSwu7AQzLM_transcripts.js', JSON.stringify(data));
+})();

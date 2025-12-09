@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2704,"text":"Firma Polityki"},{"start":6112,"text":"Istnieje szereg polityk i procedur firmy, które określają obowiązki w naszych relacjach,"},{"start":12492,"text":"tj. firma-pracownik,"},{"start":14679,"text":"pracownik-firma"},{"start":16108,"text":"i pracownik-pracownik."},{"start":17869,"text":"Obowiązkiem klienta jest zapoznanie się z tymi politykami"},{"start":22048,"text":"najbardziej odpowiednie i najczęściej stosowane polityki zostały przesłane w Pakiecie Startowym dla Nowego Klienta."},{"start":27056,"text":"Dodatkowe polityki są jednak dostępne w usłudze SharePoint lub na żądanie przełożonego."},{"start":33504,"text":"Pracownicy, którzy naruszą Politykę Firmy, mogą podlegać postępowaniu dyscyplinarnemu, włącznie z zwolnieniem z pracy."}]}]};
+    window.globalLoadJsAsset('story_content/6I3lViMFteL_transcripts.js', JSON.stringify(data));
+})();
